@@ -17,7 +17,7 @@
 ## Experiences
 |  Years of work  |  Company name | Position |
 | ------------ | ------------ |
-| 2022 - current tme | ROLING SCOPE SCHOOL | Student |
+| 2022 - current time | ROLING SCOPE SCHOOL | Student |
 | 2015 - 2022 | JSC Company A2 | Head of sales |
 | 2009 - 2015 | JSC Company A1 |  Manager |
 
