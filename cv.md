@@ -15,9 +15,9 @@
 ------------
 
 ## Experiences
-|  Years  |  Company name | Position |
+|  Years of work  |  Company name | Position |
 | ------------ | ------------ |
-| 2022 - current | ROLING SCOPE SCHOOL | Student |
+| 2022 - current tme | ROLING SCOPE SCHOOL | Student |
 | 2015 - 2022 | JSC Company A2 | Head of sales |
 | 2009 - 2015 | JSC Company A1 |  Manager |
 
@@ -27,7 +27,7 @@
 
 2007 - 2012  [University of Miami](https://welcome.miami.edu/ "University of Miami")
 
-[![](https://cdn.miami.edu/_assets-common/images/system/logo.png)](http://google.com)
+[![](https://cdn.miami.edu/_assets-common/images/system/logo.png)](https://welcome.miami.edu/)
 
 ------------
 
