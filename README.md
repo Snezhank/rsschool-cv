@@ -1,2 +1,2 @@
-# rsschool-cv1
+# rsschool-cv
 https://snezhank.github.io/rsschool-cv/
