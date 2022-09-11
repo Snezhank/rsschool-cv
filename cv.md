@@ -22,6 +22,6 @@ function removeChar(str){
 };
 ``` 
 ## Contact
-* Mobile phone: [+375-29-276-11-98](tel:+375292761198) (also available on [viber](viber:+375292761198),[telegram](tg:+375292761198))
+* Mobile phone: [+375-29-276-11-98] (tel:+375292761198) (also available on [viber](viber:+375292761198), [telegram](tg:+375292761198))
 * Email: [snezhank@mail.ru](mailto:snezhank@mail.ru)
 * GitHub: [@snezhank](https://github.com/Snezhank)
